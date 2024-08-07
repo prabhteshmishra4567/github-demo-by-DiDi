@@ -1,4 +1,5 @@
 # github-demo-by-DiDi
 learning Github 
 <hr>
-author - Himanshu
+author - Himanshu (full stack)
+
